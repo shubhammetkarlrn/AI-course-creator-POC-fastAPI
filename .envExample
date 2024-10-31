@@ -1,0 +1,2 @@
+OPENAI_API_KEY=''
+EXTERNAL_API_ENDPOINT='https://authoring.qa.lrn.com/cms-course/internal/uploadXML'

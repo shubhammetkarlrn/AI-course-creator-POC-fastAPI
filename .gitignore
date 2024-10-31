@@ -1,0 +1,28 @@
+.env
+.python-version
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+myenv/
+
+# MacOS files
+.DS_Store
+
+# Python-specific ignores
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# C extensions
+*.so
+
+# IDE specific ignores
+.vscode/
+.idea/

@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course xmlns="http://lrncontent.lrn.com/schema/lcec/lrncourse" xmlns:math="http://exslt.org/math" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xsi:schemaLocation="http://lrncontent.lrn.com/schemaLocationa/lcec/lrncourse file:///c:/perforce/lcec/tools-internal/CourseAuthoring/LRNCourse.xsd" appType="ajax" hasCert="false" custom="true" hasEOCS="true" eocsId="ALG8KZSodm" hasLandingPage="true" isCustomizeKnowledgeCheck="false" isRandomQuiz="false" isPoolingEnabled="false" isKCPoolOnce="false" isRetryQuizRandomEnabled="false" isKnowledgeCheckRetry="false" hasTileMenu="true" media="video audio" lang="en" systemId="8241000369" baseCatalogId="XYZ009A" catalogId="XYZ009Aa92en" isIPKc="false">
+<modified>2024-10-29 04:06:27.354</modified>
+<title>About ethics on work place</title>
+<landingPageDesc>
+<text>
+<pageCaption>
+<h2><span style="font-size:14px">What Are Workplace Ethics</span></h2>
+</pageCaption>
+</text>
+<audioTranscript>
+<inspireTranscript> </inspireTranscript>
+</audioTranscript>
+</landingPageDesc>
+<description>
+<p>Workplace ethics — the ethical guidelines that define appropriate workplace behavior — are an important aspect of an <a target="_blank" href="https://builtin.com/company-culture">organizational culture</a>. Companies that live up to their ethical standards may notice that employees trust each other to do the right thing, which can boost performance and loyalty. Job applicants will want to <a target="_blank" href="https://builtin.com/recruiting">join</a> the company, and customers will be <a target="_blank" href="https://builtin.com/marketing/conscious-consumerism">proud</a> to say they do business with them.</p>
+</description>
+<endOfCourseSurvey>
+<survey id="ALG8KZSodm">
+<buttonLabel> </buttonLabel>
+<description> </description>
+</survey>
+</endOfCourseSurvey>
+<inactivityWarning timer="2.5">
+<text>
+</text>
+<message>
+<text>
+</text>
+</message>
+<buttons>
+<button type="continue"> </button>
+</buttons>
+</inactivityWarning>
+<topic catname="Lesson_1352858260784549722" lessonId="lesson_1352858260784549722" lessonType="lesson" lessonTime="0">
+<title>Introduction</title>
+<text/>
+<page type="videoSlideShow" pageid="1337985907539425274" pageTime="0" showTitle="true" hidden="false">
+<title>We all have the power to create the kind of workplace we want to work in. </title>
+<text>
+<p>This chapter lays the foundation for understanding workplace ethics. It introduces the concept of ethics, exploring its significance in professional environments. We’ll examine key definitions, the historical evolution of workplace ethics, and the moral dilemmas commonly faced in various industries. By the end of this chapter, students will appreciate the importance of ethical behavior in fostering a positive workplace culture.</p>
+</text>
+<panel catname="panel1">
+<text/>
+</panel>
+<audioTranscript>
+<inspireTranscript>
+<p>What kind of workplace do you want to work in? For Rohan, it’s a place where people see what he can do, not what he can’t. For Haruki, it’s a place where she’s treated as a human, not an object. For Alex, it’s a place where their identity is respected with the correct pronouns. For Nadira, it’s a place where her religion is understood, not feared. We all want to work somewhere we feel valued. Somewhere we feel like we belong. A place where we feel safe to be our authentic selves and not hide who we are. Where we can speak up and be trusted. And where our colleagues stand up for us instead of looking the other way. Because they know our differences are our greatest strength. And because we all deserve to thrive and reach our full potential. </p>
+</inspireTranscript>
+</audioTranscript>
+</page>
+</topic>
+<topic catname="Lesson_1179347450018272246" lessonId="lesson_1179347450018272246" lessonType="adaptive" lessonTime="0" quizType="quickQuiz">
+<title>What Is Harassment?</title>
+<adaptive passingCount="4" randomize="true" poolSize="5">
+<landing lessonId="lesson_1179347450018272246" pageid="adapt_001_1">
+<title>Ready to show what you know?</title>
+<text>
+<adpLandingPageContent/>
+</text>
+</landing>
+<question lessonId="lesson_1179347450018272246" pageid="adapt_001_2" qId="1" interactionId="QQ-lesson_1179347450018272246-1" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Harassment is unwelcome conduct, specifically of a physical or sexual nature, that leaves the victim physically or emotionally damaged. It does not apply to verbal and/or visual conduct.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1179347450018272246" pageid="adapt_001_3" qId="2" interactionId="QQ-lesson_1179347450018272246-2" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Nathalie works with Juan. After a successful client meeting, Juan tells them, “You did a great job today!”</p>
+<br/>Could this be considered harassment?</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>Yes</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>No</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1179347450018272246" pageid="adapt_001_4" qId="3" interactionId="QQ-lesson_1179347450018272246-3" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Youssef wears religious headgear. Sandra teases him about how “stupid it looks.”<br/>Could this be considered harassment?</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>Yes</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>No</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1179347450018272246" pageid="adapt_001_5" qId="4" interactionId="QQ-lesson_1179347450018272246-4" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Josephine was recently diagnosed with a medical condition, which has led to her being granted permission to work from home three days a week. Ever since, her colleagues have given her the silent treatment and won't sit with her at lunch like they used to.</p>
+<br/>Could this be considered harassment?</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>Yes</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>No</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1179347450018272246" pageid="adapt_001_6" qId="5" interactionId="QQ-lesson_1179347450018272246-5" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Ana is a systems analyst and the only woman on the team. Her manager constantly asks her to pick up his dry cleaning and to do other personal tasks, but never asks anyone else on the team.<br/>Could this be considered harassment?</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>Yes</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>No</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1179347450018272246" pageid="adapt_001_7" qId="6" interactionId="QQ-lesson_1179347450018272246-6" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>The way in which someone perceives a comment or action is more important than how the comment or action was intended.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1179347450018272246" pageid="adapt_001_8" qId="7" interactionId="QQ-lesson_1179347450018272246-7" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>John is in his 50s, so he is a lot older than the majority of his team who are in their 20s. They often refer to John as “grandpa” or an “old-timer”. Whenever he has issues with his computer, they say it’s typical that an old person can’t work a computer.</p>
+<br/><p>Could this be considered harassment?</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>Yes</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>No</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1179347450018272246" pageid="adapt_001_9" qId="8" interactionId="QQ-lesson_1179347450018272246-8" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Ciara’s team are planning a team outing, and they’d like to go to a cocktail bar. Ciara knows her colleague, Javid, doesn’t drink alcohol. She’s not sure if it’s for religious or personal reasons, so she says they should consider options that don’t involve alcohol.</p>
+<br/><p>Could this be considered harassment?</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>Yes</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>No</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1179347450018272246" pageid="adapt_001_10" qId="9" interactionId="QQ-lesson_1179347450018272246-9" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Bijan’s colleague, Daniel, had a stroke a few months ago, and they still experience difficulty speaking. Bijan finds it difficult to understand Daniel at times, so he says, “I want to make sure that we are communicating effectively, so would you be comfortable with my following up on our conversations with an email outlining our action items?”</p>
+<br/><p>Could this be considered harassment?</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>Yes</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>No</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1179347450018272246" pageid="adapt_001_11" qId="10" interactionId="QQ-lesson_1179347450018272246-10" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Julia just got back to the office after a two-week vacation in the sun. When her colleague, Tom, sees her, he says, “Wow, you’ve got a great tan!”</p>
+<br/><p>Could this be considered harassment?</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>Yes</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>No</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<result lessonId="lesson_1179347450018272246" pageid="adapt_001_12">
+<feedback feedbackId="correct">
+<title> </title>
+<text>
+<adpPassMessageText>
+<p>You've got it!</p>
+</adpPassMessageText>
+</text>
+</feedback>
+<feedback feedbackId="incorrect">
+<title> </title>
+<text>
+<adpFailMessageText>
+<p>Sorry, you'll need to retake the assessment.</p>
+</adpFailMessageText>
+</text>
+</feedback>
+</result>
+<wrapUp lessonId="lesson_1179347450018272246" pageid="adapt_001_13">
+<title/>
+<text>
+<adpWrapUpPageContent/>
+</text>
+</wrapUp>
+</adaptive>
+<text/>
+<page type="videoSlideShow" pageid="1501581819005597982" pageTime="0" showTitle="true" hidden="true">
+<title>Help us create a harassment-free work environment.</title>
+<text/>
+<panel catname="panel1">
+<text/>
+</panel>
+<audioTranscript>
+<inspireTranscript>
+<p>Let's explore the key areas of this topic.</p>
+<p>Some people like to make fun of other people. The guy with the lisp, the girl with the funny accent, or the person wearing unusual clothes.</p>
+<p>They weren’t being mean, it was just a joke, right?</p>
+<p>But what if I told you that those jokes could actually be considered harassment?</p>
+<p>The thing is, it’s not the intention of your comments that matters.</p>
+<p>What matters is how they were perceived by the other person or anyone else that hears them.</p>
+<p>We all know that harassing someone because of their race, religion, or any other protected characteristic is wrong.</p>
+<p>But harassment doesn’t always a have a clear line; and what you think might be innocent behavior can easily cross the boundaries into the realm of harassment.</p>
+<p>But it’s easy to stay on the right side of the line.</p>
+<p>All you have to do is understand the powerful impact we have on each other and how we all play a vital role in creating a harassment-free workplace.</p>
+</inspireTranscript>
+</audioTranscript>
+</page>
+<page type="contentPage" pageid="1385907942298101467" pageTime="0" showTitle="true" hidden="false">
+<title>Intent vs. Impact</title>
+<text>
+<p>
+<p>Sometimes, when employees are the subject of a harassment complaint, they’ll try to defend themselves by saying, “it was just a joke,” or, “they didn’t mean to offend anyone.” But what’s important to remember is that when it comes to harassment, our intent is not what matters. What matters is the impact of our words and actions on the other person and how it made them feel.</p>
+<p>That’s why it’s so important to always pause and consider the impact of our words and actions before we act. This helps us avoid unintentionally engaging in harassing behavior and creating an unwelcoming environment that stops people becoming the best version of themselves.</p>
+<p>Select the Next arrow to continue.</p>
+</p>
+</text>
+<audioTranscript>
+<inspireTranscript>
+<p>Here are some things you always need to consider.</p>
+</inspireTranscript>
+</audioTranscript>
+</page>
+<page type="videoSlideShow" pageid="1741191992798978948" pageTime="0" showTitle="true" hidden="false">
+<title>Can you help Imani?</title>
+<text/>
+<panel catname="panel1">
+<text/>
+</panel>
+<audioTranscript>
+<inspireTranscript>
+<p>Hamid is the new guy on the team. When Bob first introduced Hamid at his first team meeting, he made a joke about Hamid’s nationality. I thought okay this will probably just be a one-off, but it seems like every week Bob is making a joke about Hamid’s nationality.</p>
+</inspireTranscript>
+</audioTranscript>
+</page>
+<page type="saq" pageid="2010546873082608811" pageTime="0" showTitle="true" hidden="false">
+<title>Imani and the New Team Member</title>
+<text>
+<p>Hamid is the newest member of Imani’s team. In his first team meeting, their manager makes a joke about Hamid’s nationality when introducing him. On numerous occasions over the next few months, Imani overhears her manager making jokes at Hamid’s expense based on his nationality. It’s making Imani feel uncomfortable, but she’s not sure if this is considered harassment because Hamid doesn’t seem to be upset by the jokes. If he is, he hasn’t said anything, but Imani wants to know what you think.</p>
+</text>
+<question type="multipleChoice">
+<questionText>What should you tell her?</questionText>
+<questionDescription/>
+<choice isCorrect="true" catname="choice1">
+<p>Making repeated jokes about someone’s nationality may be harassment, so Imani should report this internally to the appropriate department immediately. </p>
+</choice>
+<choice isCorrect="false" catname="choice2">
+<p>This might be harassment, but Hamid hasn’t said he’s offended by the jokes, so it’s hard to know. Imani should stay out of it and let Hamid report it if he’s unhappy.</p>
+</choice>
+<choice isCorrect="false" catname="choice3">
+<p>This definitely isn’t harassment. Imani’s manager is only joking around to help Hamid feel welcome and a part of the team. If Hamid didn't like it he'd say something. </p>
+</choice>
+<feedback feedbackId="correct" jumpToPageId="">
+<title>Passed</title>
+<text>
+<p>Well done!</p>
+</text>
+</feedback>
+<feedback feedbackId="incorrect" jumpToPageId="">
+<title>Failed</title>
+<text>
+<p>Not there yet...</p>
+</text>
+</feedback>
+</question>
+<buttonText/>
+<audioTranscript>
+<inspireTranscript> </inspireTranscript>
+</audioTranscript>
+</page>
+<page type="contentPage" pageid="1818858734047904038" pageTime="0" showTitle="true" hidden="false">
+<title>Remember…</title>
+<text>
+<p>
+<p>It’s never acceptable to make jokes about our colleagues’, or anyone’s, nationality or about any other legally protected class or category. Our nationality is a legally protected class and is also an important part of our identity and who we are, so it can be a very dehumanizing experience when someone makes even a single joke about it. </p>
+<p>Imani and Hamid’s manager may genuinely have been joking around with Hamid to make him feel like a part of the team. But their manager’s intent isn’t what matters. What matters is the impact of those jokes on Hamid, Imani, or anyone else who heard them, and how the jokes made them feel. </p>
+<p>Just because Hamid doesn’t appear to be upset by the jokes, it doesn’t mean he’s not. Being the new member on the team, it’s likely he’s afraid to speak up and say anything in case it results in a confrontation with his manager. This might cause Hamid’s team to view him in a negative way if they side with their manager. That’s why it’s so important to support our colleagues and speak up when we witness harassment or other inappropriate conduct.</p>
+</p>
+</text>
+<audioTranscript>
+<inspireTranscript>
+<p>Here are some things you always need to consider.</p>
+</inspireTranscript>
+</audioTranscript>
+</page>
+<page type="saq" pageid="521658842015180454" pageTime="0" showTitle="true" hidden="false">
+<title>Using Correct Pronouns</title>
+<text>
+<p>Imani shares a desk with Jemima, who recently let the team know that their pronouns are they/them. There have been a few slip-ups, but the team has been making a genuine effort to use Jemima’s pronouns – except Carsten, that is, who continues to use she/her pronouns even though he’s been corrected several times. When corrected, he says he can’t be expected to remember Jemima’s “preferred” pronouns when they “changed so randomly.”</p>
+<p>Imani thinks this might be harassment, so she asks for your advice. </p>
+</text>
+<question type="multipleChoice">
+<questionText>What should you tell her?</questionText>
+<questionDescription/>
+<choice isCorrect="false" catname="choice1">
+<p>It’s not harassment to make a mistake. If Jemima only recently changed their pronouns, it’s understandable that Carsten is going to forget and needs some time to feel comfortable using they/them pronouns, so Jemima needs to be patient. </p>
+</choice>
+<choice isCorrect="true" catname="choice2">
+<p>While everyone makes mistakes, Carsten doesn’t seem to be making any genuine attempt to use the correct pronouns and respect Jemima’s gender identity, which is a form of harassment and must be promptly reported to the appropriate department.</p>
+</choice>
+<choice isCorrect="false" catname="choice3">
+<p>This isn’t harassment. Being gender fluid is just a phase people go through when they can’t decide what their gender is. If they/them are just Jemima’s “preferred” pronouns, they probably don’t mind Carsten using she/her.</p>
+</choice>
+<feedback feedbackId="correct" jumpToPageId="">
+<title>Passed</title>
+<text>
+<p>Well done!</p>
+</text>
+</feedback>
+<feedback feedbackId="incorrect" jumpToPageId="">
+<title>Failed</title>
+<text>
+<p>Not nearly there...</p>
+</text>
+</feedback>
+</question>
+<buttonText/>
+<audioTranscript>
+<inspireTranscript>
+<p/>
+</inspireTranscript>
+</audioTranscript>
+</page>
+<page type="contentPage" pageid="364672863415744258" pageTime="0" showTitle="true" hidden="false">
+<title>Remember…</title>
+<text>
+<p>
+<p>A person who identifies as gender fluid doesn’t have a fixed gender, and the gender they identify with may change over time. Because many of us have grown up knowing only two genders, it can be difficult to understand that gender is a spectrum – and that’s okay. But just because we don’t understand something, doesn’t mean it’s wrong. What we do need to understand, though, is that our gender identity is important to our sense of self. Living a life that is not true to who we are can be distressing. </p>
+<p>That’s why it’s important that people must be able to be their authentic selves at work and people should feel accepted and valued for who they are in an inclusive work environment where their gender identity is believed and respected. We can do that by sharing our own pronouns, asking others what their pronouns are, and making efforts to use those pronouns correctly. </p>
+<p>However, be mindful we should not use the term “preferred” pronouns because this implies that there is a preference or that we may have a choice when it comes to gender identity, when it’s not a choice at all. It’s who we are.</p>
+</p>
+</text>
+<audioTranscript>
+<inspireTranscript>
+<p>Here are some key points to remember.</p>
+</inspireTranscript>
+</audioTranscript>
+</page>
+<page type="saq" pageid="724914363566674123" pageTime="0" showTitle="true" hidden="false">
+<title>Different Ways of Thinking</title>
+<text>
+<p>Imani’s colleague, Tejas, is autistic. He can experience sensory overload, especially in a busy and noisy workplace. To accommodate this, Tejas is allowed to wear headphones, but to make sure he’s included, the team makes an effort to connect with Tejas daily in quieter and calmer environments. However, Maeve, who recently transferred to Imani’s team does not make any efforts to connect with Tejas because she thinks Tejas is “weird.” Imani explains to Maeve that Tejas can find social interaction a bit challenging at times, but once he’s comfortable with you, he’s really chatty. But Maeve continues to ignore him, and Imani has noticed Maeve whispering “freak” under her breath whenever she walks past Tejas. </p>
+<p>Imani doesn’t know what to do, so she asks for your advice. </p>
+</text>
+<question type="multipleChoice">
+<questionText>What should you tell her?</questionText>
+<questionDescription/>
+<choice isCorrect="false" catname="choice1">
+<p>Maeve hasn’t said anything hurtful directly to Tejas, so if he hasn’t heard or seen anything, this isn’t harassment and there is no need for Imani to get involved. </p>
+</choice>
+<choice isCorrect="false" catname="choice2">
+<p>Maeve is entitled to her opinions about Tejas. It’s understandable why she might think the way she does, so Imani should ask Tejas to make more of an effort. </p>
+</choice>
+<choice isCorrect="true" catname="choice3">
+<p>Even if Tejas is totally unaware of what Maeve is doing, her behavior toward Tejas is still harassment, so Imani should report this internally straight away. </p>
+</choice>
+<feedback feedbackId="correct" jumpToPageId="">
+<title>Passed</title>
+<text/>
+</feedback>
+<feedback feedbackId="incorrect" jumpToPageId="">
+<title>Failed</title>
+<text/>
+</feedback>
+</question>
+<buttonText/>
+<audioTranscript>
+<inspireTranscript>
+<p/>
+</inspireTranscript>
+</audioTranscript>
+</page>
+<page type="contentPage" pageid="919907473329714448" pageTime="0" showTitle="true" hidden="false">
+<title>Thanks for helping Imani.</title>
+<text>
+<p>
+<p>Most of us have grown up believing that all brains work the same. Because of this belief, we have come to think that autistic people like Tejas have something wrong with them, just because their brains work differently than ours. But in fact, no two people in the world have the same brain. All brains function differently, which is evident in the fact that we all have a unique combination of strengths and weaknesses. </p>
+<p>Some autistic people may come across as unfriendly or weird if they find elements of social interaction challenging, like eye contact and tone of voice. They have a different way of thinking and experiencing the world, and because they often think quite literally, they may find it hard to read people and their social cues, especially when we use jargon and metaphors. </p>
+<p>But what’s important to remember is that autistic people want to be included and to socialize with colleagues just like everyone else; they just sometimes feel anxious or unsure how to do that. So, we should help them instead of trying to make them “fit in” with the rest of us. Even if Tejas isn’t aware of what Maeve is doing, her behavior toward him is still considered harassment, so Imani should report this.</p>
+</p>
+</text>
+<audioTranscript>
+<inspireTranscript>
+<p>Your advice was very much appreciated.</p>
+</inspireTranscript>
+</audioTranscript>
+</page>
+</topic>
+<bulletins>
+<bulletin pageid="1337985907539425274" isMandatory="" type="caution" catname="Bulletin_8413367900208521899">
+<bulletinTitle>
+<p>Bulletin Title</p>
+</bulletinTitle>
+<bulletinText>
+<p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. "What's happened to me?" he thought. It wasn't a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather. Drops</p>
+</bulletinText>
+</bulletin>
+<bulletin pageid="1501581819005597982" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="1385907942298101467" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="1741191992798978948" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="2010546873082608811" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="1818858734047904038" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="521658842015180454" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="364672863415744258" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="724914363566674123" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="919907473329714448" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="784403789432073804" isMandatory="" type="bulletin" catname="Bulletin_1333506364142542915">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+</bulletins>
+<resultFeedback>
+<pass buttonState="show" buttonText="Print Certificate">
+<text/>
+</pass>
+<attemptFail>
+<text/>
+</attemptFail>
+</resultFeedback>
+</course>
