@@ -1,8 +1,10 @@
 from typing import List, Dict, Any
+from .MCQ_Template_QuickQuiz import MCQ_Template
 import xml.etree.ElementTree as ET
 
 class DataMapper:
-    def map_and_modify(self, llm_response: Any) :
+    async def map_and_modify(self, llm_response: Any) :
+        mcq_template_flow = MCQ_Template()
         print(llm_response[0], llm_response[1])
         """
         Map data from XML and LLM response, modify XML accordingly
@@ -30,6 +32,8 @@ class DataMapper:
 
             # Save the modified XML back to a file
             tree.write('output.xml', encoding='UTF-8', xml_declaration=True)
+
+            await mcq_template_flow.MCQ_generator()
 
             # Add your mapping and XML modification logic here
             # This is a placeholder implementation

@@ -23,7 +23,7 @@ async def process_data(request: ProcessRequestBody):
         llm_response = openai_service.get_completion(xml_data, request)
         
         # Step 3: Map data and modify XML
-        modified_xml = data_mapper.map_and_modify(llm_response)
+        modified_xml = await data_mapper.map_and_modify(llm_response)
         
         # Step 4: Send to external API
         result = await external_api.send_xml(modified_xml)
