@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
-<course xmlns="http://lrncontent.lrn.com/schema/lcec/lrncourse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://lrncontent.lrn.com/schemaLocationa/lcec/lrncourse file:///c:/perforce/lcec/tools-internal/CourseAuthoring/LRNCourse.xsd" appType="ajax" hasCert="false" custom="true" hasEOCS="true" eocsId="ALG8KZSodm" hasLandingPage="true" isCustomizeKnowledgeCheck="false" isRandomQuiz="false" isPoolingEnabled="false" isKCPoolOnce="false" isRetryQuizRandomEnabled="false" isKnowledgeCheckRetry="false" hasTileMenu="true" media="video audio" lang="en" systemId="8241000369" baseCatalogId="XYZ009A" catalogId="XYZ009Aa92en" isIPKc="false">
-<modified>2024-11-08 06:24:13.943</modified>
+<?xml version="1.0" encoding="UTF-8"?>
+<course xmlns="http://lrncontent.lrn.com/schema/lcec/lrncourse" xmlns:math="http://exslt.org/math" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xsi:schemaLocation="http://lrncontent.lrn.com/schemaLocationa/lcec/lrncourse file:///c:/perforce/lcec/tools-internal/CourseAuthoring/LRNCourse.xsd" appType="ajax" hasCert="false" custom="true" hasEOCS="true" eocsId="ALG8KZSodm" hasLandingPage="true" isCustomizeKnowledgeCheck="false" isRandomQuiz="false" isPoolingEnabled="false" isKCPoolOnce="false" isRetryQuizRandomEnabled="false" isKnowledgeCheckRetry="false" hasTileMenu="true" media="video audio" lang="en" systemId="8241000369" baseCatalogId="XYZ009A" catalogId="XYZ009Aa92en" isIPKc="false">
+<modified>2024-10-29 04:06:27.354</modified>
 <title>About ethics on work place</title>
 <landingPageDesc>
 <text>
@@ -13,7 +13,7 @@
 </audioTranscript>
 </landingPageDesc>
 <description>
-<p>Workplace ethics — the ethical guidelines that define appropriate workplace behavior — are an important aspect of an <a href="https://builtin.com/company-culture" target="_blank">organizational culture</a>. Companies that live up to their ethical standards may notice that employees trust each other to do the right thing, which can boost performance and loyalty. Job applicants will want to <a href="https://builtin.com/recruiting" target="_blank">join</a> the company, and customers will be <a href="https://builtin.com/marketing/conscious-consumerism" target="_blank">proud</a> to say they do business with them.</p>
+<p>Workplace ethics — the ethical guidelines that define appropriate workplace behavior — are an important aspect of an <a target="_blank" href="https://builtin.com/company-culture">organizational culture</a>. Companies that live up to their ethical standards may notice that employees trust each other to do the right thing, which can boost performance and loyalty. Job applicants will want to <a target="_blank" href="https://builtin.com/recruiting">join</a> the company, and customers will be <a target="_blank" href="https://builtin.com/marketing/conscious-consumerism">proud</a> to say they do business with them.</p>
 </description>
 <endOfCourseSurvey>
 <survey id="ALG8KZSodm">
@@ -34,14 +34,14 @@
 </inactivityWarning>
 <topic catname="Lesson_1352858260784549722" lessonId="lesson_1352858260784549722" lessonType="lesson" lessonTime="0">
 <title>Introduction</title>
-<text />
+<text/>
 <page type="videoSlideShow" pageid="1337985907539425274" pageTime="0" showTitle="true" hidden="false">
-<title>Introduction to Ethics in the Automobile Industry</title>
+<title>We all have the power to create the kind of workplace we want to work in. </title>
 <text>
-<p>Explore the foundation of ethical principles and their importance in the automobile industry. Understand how ethics shapes the culture and operations within automotive companies, setting a standard for professional behavior.</p>
+<p>This chapter lays the foundation for understanding workplace ethics. It introduces the concept of ethics, exploring its significance in professional environments. We’ll examine key definitions, the historical evolution of workplace ethics, and the moral dilemmas commonly faced in various industries. By the end of this chapter, students will appreciate the importance of ethical behavior in fostering a positive workplace culture.</p>
 </text>
 <panel catname="panel1">
-<text />
+<text/>
 </panel>
 <audioTranscript>
 <inspireTranscript>
@@ -49,358 +49,301 @@
 </inspireTranscript>
 </audioTranscript>
 </page>
-<page type="clickAndReveal" pageid="2336253760955861444" pageTime="0" showTitle="true" count="" hidden="false">
-<title>ClickAndReveal Template</title>
-<text>
-<p>Test description for ClickAndReveal Template</p>
-</text>
-<audioTranscript>
-<inspireTranscript> </inspireTranscript>
-</audioTranscript>
-<clickAndRevealItem catname="item1">
-<click>
-<text>Understanding Corporate Ethics</text>
-</click>
-<reveal>
-<text>
-<p>Corporate ethics involve the policies and practices that a business follows in its interactions with stakeholders, including employees, customers, suppliers, and the community. It is essential for maintaining a company's reputation and legal standing.</p>
-</text>
-</reveal>
-</clickAndRevealItem>
-<clickAndRevealItem catname="item2">
-<click>
-<text>Code of Conduct Importance</text>
-</click>
-<reveal>
-<text>
-<p>A Code of Conduct outlines the expected behaviors and ethical standards for both employees and management. It is a crucial tool for ensuring that everyone in the organization understands their responsibilities and the ethical standards they must uphold.</p>
-</text>
-</reveal>
-</clickAndRevealItem>
-<clickAndRevealItem catname="item3">
-<click>
-<text>Handling Conflicts of Interest</text>
-</click>
-<reveal>
-<text>
-<p>Conflicts of interest occur when personal interests could potentially interfere with professional duties. Organizations must have clear policies to identify and manage such conflicts to maintain trust and objectivity in business decisions.</p>
-</text>
-</reveal>
-</clickAndRevealItem>
-<clickAndRevealItem catname="item4">
-<click>
-<text>Promoting a Speak-Up Culture</text>
-</click>
-<reveal>
-<text>
-<p>Encouraging open communication and providing safe avenues for reporting unethical behavior are vital. A 'speak-up' culture helps in early detection of issues and fosters an environment of transparency and trust.</p>
-</text>
-</reveal>
-</clickAndRevealItem>
-</page>
 </topic>
 <topic catname="Lesson_1179347450018272246" lessonId="lesson_1179347450018272246" lessonType="adaptive" lessonTime="0" quizType="quickQuiz">
 <title>What Is Harassment?</title>
 <adaptive passingCount="4" randomize="true" poolSize="5">
-                <landing lessonId="lesson_1179347450018272246" pageid="adapt_001_1">
-                    <title>Ready to show what you know?</title>
-                    <text>
-                        <adpLandingPageContent />
-                    </text>
-                </landing>
-        
-            
-            <question lessonId="lesson_1179347450018272246" pageid="adapt_001_2" qId="1" interactionId="QQ-lesson_1179347450018272246-1" type="multipleChoice">
-                <title />
-                <questionText>
-                    <adpQuestionText>
-                        <adpAssessmentQuestion>
-                            <p>Harassment in the workplace can include verbal, physical, and visual conduct that negatively affects an individual.</p>
-                        </adpAssessmentQuestion>
-                    </adpQuestionText>
-                </questionText>
-                <choice isCorrect="true">
-                    <adpQuestionAnswer>
-                        <adpAssessmentAnswer_0>
-                            <p>True</p>
-                        </adpAssessmentAnswer_0>
-                    </adpQuestionAnswer>
-                </choice>
-                <choice isCorrect="false">
-                    <adpQuestionAnswer>
-                        <adpAssessmentAnswer_1>
-                            <p>False</p>
-                        </adpAssessmentAnswer_1>
-                    </adpQuestionAnswer>
-                </choice>
-                <feedback />
-            </question>
-            
-            <question lessonId="lesson_1179347450018272246" pageid="adapt_001_3" qId="2" interactionId="QQ-lesson_1179347450018272246-2" type="multipleChoice">
-                <title />
-                <questionText>
-                    <adpQuestionText>
-                        <adpAssessmentQuestion>
-                            <p>In the hospitality industry, ethics only apply to interactions with guests, not interactions among staff members.</p>
-                        </adpAssessmentQuestion>
-                    </adpQuestionText>
-                </questionText>
-                <choice isCorrect="false">
-                    <adpQuestionAnswer>
-                        <adpAssessmentAnswer_0>
-                            <p>True</p>
-                        </adpAssessmentAnswer_0>
-                    </adpQuestionAnswer>
-                </choice>
-                <choice isCorrect="true">
-                    <adpQuestionAnswer>
-                        <adpAssessmentAnswer_1>
-                            <p>False</p>
-                        </adpAssessmentAnswer_1>
-                    </adpQuestionAnswer>
-                </choice>
-                <feedback />
-            </question>
-            
-            <question lessonId="lesson_1179347450018272246" pageid="adapt_001_4" qId="3" interactionId="QQ-lesson_1179347450018272246-3" type="multipleChoice">
-                <title />
-                <questionText>
-                    <adpQuestionText>
-                        <adpAssessmentQuestion>
-                            <p>Discrimination in the workplace is legally permissible if it is based on merit and performance rather than personal characteristics.</p>
-                        </adpAssessmentQuestion>
-                    </adpQuestionText>
-                </questionText>
-                <choice isCorrect="false">
-                    <adpQuestionAnswer>
-                        <adpAssessmentAnswer_0>
-                            <p>True</p>
-                        </adpAssessmentAnswer_0>
-                    </adpQuestionAnswer>
-                </choice>
-                <choice isCorrect="true">
-                    <adpQuestionAnswer>
-                        <adpAssessmentAnswer_1>
-                            <p>False</p>
-                        </adpAssessmentAnswer_1>
-                    </adpQuestionAnswer>
-                </choice>
-                <feedback />
-            </question>
-            
-            <question lessonId="lesson_1179347450018272246" pageid="adapt_001_5" qId="4" interactionId="QQ-lesson_1179347450018272246-4" type="multipleChoice">
-                <title />
-                <questionText>
-                    <adpQuestionText>
-                        <adpAssessmentQuestion>
-                            <p>Providing excellent customer service is an ethical obligation in the hospitality industry.</p>
-                        </adpAssessmentQuestion>
-                    </adpQuestionText>
-                </questionText>
-                <choice isCorrect="true">
-                    <adpQuestionAnswer>
-                        <adpAssessmentAnswer_0>
-                            <p>True</p>
-                        </adpAssessmentAnswer_0>
-                    </adpQuestionAnswer>
-                </choice>
-                <choice isCorrect="false">
-                    <adpQuestionAnswer>
-                        <adpAssessmentAnswer_1>
-                            <p>False</p>
-                        </adpAssessmentAnswer_1>
-                    </adpQuestionAnswer>
-                </choice>
-                <feedback />
-            </question>
-            
-            <question lessonId="lesson_1179347450018272246" pageid="adapt_001_6" qId="5" interactionId="QQ-lesson_1179347450018272246-5" type="multipleChoice">
-                <title />
-                <questionText>
-                    <adpQuestionText>
-                        <adpAssessmentQuestion>
-                            <p>An employee who witnesses harassment is ethically obligated to report it, even if it does not directly affect them.</p>
-                        </adpAssessmentQuestion>
-                    </adpQuestionText>
-                </questionText>
-                <choice isCorrect="true">
-                    <adpQuestionAnswer>
-                        <adpAssessmentAnswer_0>
-                            <p>True</p>
-                        </adpAssessmentAnswer_0>
-                    </adpQuestionAnswer>
-                </choice>
-                <choice isCorrect="false">
-                    <adpQuestionAnswer>
-                        <adpAssessmentAnswer_1>
-                            <p>False</p>
-                        </adpAssessmentAnswer_1>
-                    </adpQuestionAnswer>
-                </choice>
-                <feedback />
-            </question>
-            
-            <question lessonId="lesson_1179347450018272246" pageid="adapt_001_7" qId="6" interactionId="QQ-lesson_1179347450018272246-6" type="multipleChoice">
-                <title />
-                <questionText>
-                    <adpQuestionText>
-                        <adpAssessmentQuestion>
-                            <p>Accepting gifts from suppliers is always considered an unethical practice in the hospitality industry.</p>
-                        </adpAssessmentQuestion>
-                    </adpQuestionText>
-                </questionText>
-                <choice isCorrect="false">
-                    <adpQuestionAnswer>
-                        <adpAssessmentAnswer_0>
-                            <p>True</p>
-                        </adpAssessmentAnswer_0>
-                    </adpQuestionAnswer>
-                </choice>
-                <choice isCorrect="true">
-                    <adpQuestionAnswer>
-                        <adpAssessmentAnswer_1>
-                            <p>False</p>
-                        </adpAssessmentAnswer_1>
-                    </adpQuestionAnswer>
-                </choice>
-                <feedback />
-            </question>
-            
-            <question lessonId="lesson_1179347450018272246" pageid="adapt_001_8" qId="7" interactionId="QQ-lesson_1179347450018272246-7" type="multipleChoice">
-                <title />
-                <questionText>
-                    <adpQuestionText>
-                        <adpAssessmentQuestion>
-                            <p>If a customer is being unruly and disruptive, it is acceptable to use force to remove them from the premises according to workplace ethics in hospitality.</p>
-                        </adpAssessmentQuestion>
-                    </adpQuestionText>
-                </questionText>
-                <choice isCorrect="false">
-                    <adpQuestionAnswer>
-                        <adpAssessmentAnswer_0>
-                            <p>True</p>
-                        </adpAssessmentAnswer_0>
-                    </adpQuestionAnswer>
-                </choice>
-                <choice isCorrect="true">
-                    <adpQuestionAnswer>
-                        <adpAssessmentAnswer_1>
-                            <p>False</p>
-                        </adpAssessmentAnswer_1>
-                    </adpQuestionAnswer>
-                </choice>
-                <feedback />
-            </question>
-            
-            <question lessonId="lesson_1179347450018272246" pageid="adapt_001_9" qId="8" interactionId="QQ-lesson_1179347450018272246-8" type="multipleChoice">
-                <title />
-                <questionText>
-                    <adpQuestionText>
-                        <adpAssessmentQuestion>
-                            <p>Scenario: Maria refuses to serve a customer because they belong to a different ethnic background. Is this considered discriminatory behavior?</p>
-                        </adpAssessmentQuestion>
-                    </adpQuestionText>
-                </questionText>
-                <choice isCorrect="true">
-                    <adpQuestionAnswer>
-                        <adpAssessmentAnswer_0>
-                            <p>True</p>
-                        </adpAssessmentAnswer_0>
-                    </adpQuestionAnswer>
-                </choice>
-                <choice isCorrect="false">
-                    <adpQuestionAnswer>
-                        <adpAssessmentAnswer_1>
-                            <p>False</p>
-                        </adpAssessmentAnswer_1>
-                    </adpQuestionAnswer>
-                </choice>
-                <feedback />
-            </question>
-            
-            <question lessonId="lesson_1179347450018272246" pageid="adapt_001_10" qId="9" interactionId="QQ-lesson_1179347450018272246-9" type="multipleChoice">
-                <title />
-                <questionText>
-                    <adpQuestionText>
-                        <adpAssessmentQuestion>
-                            <p>Scenario: An employee regularly makes jokes about another employee’s accent in the workplace. Could this be considered harassment?</p>
-                        </adpAssessmentQuestion>
-                    </adpQuestionText>
-                </questionText>
-                <choice isCorrect="true">
-                    <adpQuestionAnswer>
-                        <adpAssessmentAnswer_0>
-                            <p>True</p>
-                        </adpAssessmentAnswer_0>
-                    </adpQuestionAnswer>
-                </choice>
-                <choice isCorrect="false">
-                    <adpQuestionAnswer>
-                        <adpAssessmentAnswer_1>
-                            <p>False</p>
-                        </adpAssessmentAnswer_1>
-                    </adpQuestionAnswer>
-                </choice>
-                <feedback />
-            </question>
-            
-            <question lessonId="lesson_1179347450018272246" pageid="adapt_001_11" qId="10" interactionId="QQ-lesson_1179347450018272246-10" type="multipleChoice">
-                <title />
-                <questionText>
-                    <adpQuestionText>
-                        <adpAssessmentQuestion>
-                            <p>Scenario: A manager regularly compliments an employee on their appearance in a manner that makes the employee uncomfortable. Could this be considered harassment?</p>
-                        </adpAssessmentQuestion>
-                    </adpQuestionText>
-                </questionText>
-                <choice isCorrect="true">
-                    <adpQuestionAnswer>
-                        <adpAssessmentAnswer_0>
-                            <p>True</p>
-                        </adpAssessmentAnswer_0>
-                    </adpQuestionAnswer>
-                </choice>
-                <choice isCorrect="false">
-                    <adpQuestionAnswer>
-                        <adpAssessmentAnswer_1>
-                            <p>False</p>
-                        </adpAssessmentAnswer_1>
-                    </adpQuestionAnswer>
-                </choice>
-                <feedback />
-            </question>
-            
-            
+<landing lessonId="lesson_1179347450018272246" pageid="adapt_001_1">
+<title>Ready to show what you know?</title>
+<text>
+<adpLandingPageContent/>
+</text>
+</landing>
+<question lessonId="lesson_1179347450018272246" pageid="adapt_001_2" qId="1" interactionId="QQ-lesson_1179347450018272246-1" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Harassment is unwelcome conduct, specifically of a physical or sexual nature, that leaves the victim physically or emotionally damaged. It does not apply to verbal and/or visual conduct.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1179347450018272246" pageid="adapt_001_3" qId="2" interactionId="QQ-lesson_1179347450018272246-2" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Nathalie works with Juan. After a successful client meeting, Juan tells them, “You did a great job today!”</p>
+<br/>Could this be considered harassment?</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>Yes</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>No</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1179347450018272246" pageid="adapt_001_4" qId="3" interactionId="QQ-lesson_1179347450018272246-3" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Youssef wears religious headgear. Sandra teases him about how “stupid it looks.”<br/>Could this be considered harassment?</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>Yes</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>No</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1179347450018272246" pageid="adapt_001_5" qId="4" interactionId="QQ-lesson_1179347450018272246-4" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Josephine was recently diagnosed with a medical condition, which has led to her being granted permission to work from home three days a week. Ever since, her colleagues have given her the silent treatment and won't sit with her at lunch like they used to.</p>
+<br/>Could this be considered harassment?</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>Yes</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>No</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1179347450018272246" pageid="adapt_001_6" qId="5" interactionId="QQ-lesson_1179347450018272246-5" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Ana is a systems analyst and the only woman on the team. Her manager constantly asks her to pick up his dry cleaning and to do other personal tasks, but never asks anyone else on the team.<br/>Could this be considered harassment?</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>Yes</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>No</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1179347450018272246" pageid="adapt_001_7" qId="6" interactionId="QQ-lesson_1179347450018272246-6" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>The way in which someone perceives a comment or action is more important than how the comment or action was intended.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1179347450018272246" pageid="adapt_001_8" qId="7" interactionId="QQ-lesson_1179347450018272246-7" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>John is in his 50s, so he is a lot older than the majority of his team who are in their 20s. They often refer to John as “grandpa” or an “old-timer”. Whenever he has issues with his computer, they say it’s typical that an old person can’t work a computer.</p>
+<br/><p>Could this be considered harassment?</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>Yes</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>No</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1179347450018272246" pageid="adapt_001_9" qId="8" interactionId="QQ-lesson_1179347450018272246-8" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Ciara’s team are planning a team outing, and they’d like to go to a cocktail bar. Ciara knows her colleague, Javid, doesn’t drink alcohol. She’s not sure if it’s for religious or personal reasons, so she says they should consider options that don’t involve alcohol.</p>
+<br/><p>Could this be considered harassment?</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>Yes</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>No</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1179347450018272246" pageid="adapt_001_10" qId="9" interactionId="QQ-lesson_1179347450018272246-9" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Bijan’s colleague, Daniel, had a stroke a few months ago, and they still experience difficulty speaking. Bijan finds it difficult to understand Daniel at times, so he says, “I want to make sure that we are communicating effectively, so would you be comfortable with my following up on our conversations with an email outlining our action items?”</p>
+<br/><p>Could this be considered harassment?</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>Yes</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>No</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1179347450018272246" pageid="adapt_001_11" qId="10" interactionId="QQ-lesson_1179347450018272246-10" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Julia just got back to the office after a two-week vacation in the sun. When her colleague, Tom, sees her, he says, “Wow, you’ve got a great tan!”</p>
+<br/><p>Could this be considered harassment?</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>Yes</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>No</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
 <result lessonId="lesson_1179347450018272246" pageid="adapt_001_12">
-                <feedback feedbackId="correct">
-                    <title> </title>
-                    <text>
-                        <adpPassMessageText>
-                            <p>You've got it!</p>
-                        </adpPassMessageText>
-                    </text>
-                </feedback>
-                <feedback feedbackId="incorrect">
-                    <title> </title>
-                    <text>          
-                        <adpFailMessageText>
-                            <p>Sorry, you'll need to retake the assessment.</p>
-                        </adpFailMessageText>
-                    </text>
-                </feedback>
-              </result>           
-              <wrapUp lessonId="lesson_1179347450018272246" pageid="adapt_001_13">
-                <title />
-                <text>
-                    <adpWrapUpPageContent />
-                </text>
-              </wrapUp>      
-            </adaptive><text />
+<feedback feedbackId="correct">
+<title> </title>
+<text>
+<adpPassMessageText>
+<p>You've got it!</p>
+</adpPassMessageText>
+</text>
+</feedback>
+<feedback feedbackId="incorrect">
+<title> </title>
+<text>
+<adpFailMessageText>
+<p>Sorry, you'll need to retake the assessment.</p>
+</adpFailMessageText>
+</text>
+</feedback>
+</result>
+<wrapUp lessonId="lesson_1179347450018272246" pageid="adapt_001_13">
+<title/>
+<text>
+<adpWrapUpPageContent/>
+</text>
+</wrapUp>
+</adaptive>
+<text/>
 <page type="videoSlideShow" pageid="1501581819005597982" pageTime="0" showTitle="true" hidden="true">
 <title>Help us create a harassment-free work environment.</title>
-<text />
+<text/>
 <panel catname="panel1">
-<text />
+<text/>
 </panel>
 <audioTranscript>
 <inspireTranscript>
@@ -434,9 +377,9 @@
 </page>
 <page type="videoSlideShow" pageid="1741191992798978948" pageTime="0" showTitle="true" hidden="false">
 <title>Can you help Imani?</title>
-<text />
+<text/>
 <panel catname="panel1">
-<text />
+<text/>
 </panel>
 <audioTranscript>
 <inspireTranscript>
@@ -451,7 +394,7 @@
 </text>
 <question type="multipleChoice">
 <questionText>What should you tell her?</questionText>
-<questionDescription />
+<questionDescription/>
 <choice isCorrect="true" catname="choice1">
 <p>Making repeated jokes about someone’s nationality may be harassment, so Imani should report this internally to the appropriate department immediately. </p>
 </choice>
@@ -474,7 +417,7 @@
 </text>
 </feedback>
 </question>
-<buttonText />
+<buttonText/>
 <audioTranscript>
 <inspireTranscript> </inspireTranscript>
 </audioTranscript>
@@ -502,7 +445,7 @@
 </text>
 <question type="multipleChoice">
 <questionText>What should you tell her?</questionText>
-<questionDescription />
+<questionDescription/>
 <choice isCorrect="false" catname="choice1">
 <p>It’s not harassment to make a mistake. If Jemima only recently changed their pronouns, it’s understandable that Carsten is going to forget and needs some time to feel comfortable using they/them pronouns, so Jemima needs to be patient. </p>
 </choice>
@@ -525,10 +468,10 @@
 </text>
 </feedback>
 </question>
-<buttonText />
+<buttonText/>
 <audioTranscript>
 <inspireTranscript>
-<p />
+<p/>
 </inspireTranscript>
 </audioTranscript>
 </page>
@@ -555,7 +498,7 @@
 </text>
 <question type="multipleChoice">
 <questionText>What should you tell her?</questionText>
-<questionDescription />
+<questionDescription/>
 <choice isCorrect="false" catname="choice1">
 <p>Maeve hasn’t said anything hurtful directly to Tejas, so if he hasn’t heard or seen anything, this isn’t harassment and there is no need for Imani to get involved. </p>
 </choice>
@@ -567,17 +510,17 @@
 </choice>
 <feedback feedbackId="correct" jumpToPageId="">
 <title>Passed</title>
-<text />
+<text/>
 </feedback>
 <feedback feedbackId="incorrect" jumpToPageId="">
 <title>Failed</title>
-<text />
+<text/>
 </feedback>
 </question>
-<buttonText />
+<buttonText/>
 <audioTranscript>
 <inspireTranscript>
-<p />
+<p/>
 </inspireTranscript>
 </audioTranscript>
 </page>
@@ -605,10 +548,6 @@
 <bulletinText>
 <p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. "What's happened to me?" he thought. It wasn't a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather. Drops</p>
 </bulletinText>
-</bulletin>
-<bulletin pageid="2336253760955861444" isMandatory="" type="bulletin" catname="Bulletin_2306509050170645251">
-<bulletinTitle> </bulletinTitle>
-<bulletinText> </bulletinText>
 </bulletin>
 <bulletin pageid="1501581819005597982" isMandatory="" type="" catname="">
 <bulletinTitle> </bulletinTitle>
@@ -653,10 +592,10 @@
 </bulletins>
 <resultFeedback>
 <pass buttonState="show" buttonText="Print Certificate">
-<text />
+<text/>
 </pass>
 <attemptFail>
-<text />
+<text/>
 </attemptFail>
 </resultFeedback>
 </course>

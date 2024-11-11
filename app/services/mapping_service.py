@@ -1,10 +1,12 @@
 from typing import List, Dict, Any
 from .MCQ_Template_QuickQuiz import MCQ_Template
+from .clickAndReveal import ClickAndReveal_Template
 import xml.etree.ElementTree as ET
 
 class DataMapper:
     async def map_and_modify(self, llm_response: Any) :
         mcq_template_flow = MCQ_Template()
+        click_and_reveal_template_flow = ClickAndReveal_Template()
         print(llm_response[0], llm_response[1])
         """
         Map data from XML and LLM response, modify XML accordingly
@@ -33,7 +35,11 @@ class DataMapper:
             # Save the modified XML back to a file
             tree.write('output.xml', encoding='UTF-8', xml_declaration=True)
 
+            print("------------------ starting MCQ generation ------------------")
             await mcq_template_flow.MCQ_generator()
+
+            print("------------------ starting click and reveal generation ------------------")
+            await click_and_reveal_template_flow.clickAndRevealGenerator()
 
             # Add your mapping and XML modification logic here
             # This is a placeholder implementation

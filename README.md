@@ -50,6 +50,10 @@ You can then access the API at `http://localhost:8000`.
 
 The API documentation is automatically generated using Swagger UI. You can access it at `http://localhost:8000/docs`.
 
+## I/P - O/P
+
+In the root directory, there will reside course.xml(i/p) & output.xml(o/p), also as we're incrementally adding new templates course.xml file will be versionized (i.e older course files will be assigned as course_vX.xml) & the latest one will be course.xml.
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.

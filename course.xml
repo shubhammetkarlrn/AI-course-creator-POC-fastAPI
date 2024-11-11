@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <course xmlns="http://lrncontent.lrn.com/schema/lcec/lrncourse" xmlns:math="http://exslt.org/math" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xsi:schemaLocation="http://lrncontent.lrn.com/schemaLocationa/lcec/lrncourse file:///c:/perforce/lcec/tools-internal/CourseAuthoring/LRNCourse.xsd" appType="ajax" hasCert="false" custom="true" hasEOCS="true" eocsId="ALG8KZSodm" hasLandingPage="true" isCustomizeKnowledgeCheck="false" isRandomQuiz="false" isPoolingEnabled="false" isKCPoolOnce="false" isRetryQuizRandomEnabled="false" isKnowledgeCheckRetry="false" hasTileMenu="true" media="video audio" lang="en" systemId="8241000369" baseCatalogId="XYZ009A" catalogId="XYZ009Aa92en" isIPKc="false">
-<modified>2024-10-29 04:06:27.354</modified>
+<modified>2024-11-08 06:24:13.943</modified>
 <title>About ethics on work place</title>
 <landingPageDesc>
 <text>
@@ -13,7 +13,7 @@
 </audioTranscript>
 </landingPageDesc>
 <description>
-<p>Workplace ethics — the ethical guidelines that define appropriate workplace behavior — are an important aspect of an <a target="_blank" href="https://builtin.com/company-culture">organizational culture</a>. Companies that live up to their ethical standards may notice that employees trust each other to do the right thing, which can boost performance and loyalty. Job applicants will want to <a target="_blank" href="https://builtin.com/recruiting">join</a> the company, and customers will be <a target="_blank" href="https://builtin.com/marketing/conscious-consumerism">proud</a> to say they do business with them.</p>
+<p>Workplace ethics — the ethical guidelines that define appropriate workplace behavior — are an important aspect of an <a href="https://builtin.com/company-culture" target="_blank">organizational culture</a>. Companies that live up to their ethical standards may notice that employees trust each other to do the right thing, which can boost performance and loyalty. Job applicants will want to <a href="https://builtin.com/recruiting" target="_blank">join</a> the company, and customers will be <a href="https://builtin.com/marketing/conscious-consumerism" target="_blank">proud</a> to say they do business with them.</p>
 </description>
 <endOfCourseSurvey>
 <survey id="ALG8KZSodm">
@@ -36,9 +36,9 @@
 <title>Introduction</title>
 <text/>
 <page type="videoSlideShow" pageid="1337985907539425274" pageTime="0" showTitle="true" hidden="false">
-<title>We all have the power to create the kind of workplace we want to work in. </title>
+<title>Understanding Workplace Ethics in the Automotive Industry</title>
 <text>
-<p>This chapter lays the foundation for understanding workplace ethics. It introduces the concept of ethics, exploring its significance in professional environments. We’ll examine key definitions, the historical evolution of workplace ethics, and the moral dilemmas commonly faced in various industries. By the end of this chapter, students will appreciate the importance of ethical behavior in fostering a positive workplace culture.</p>
+<p>This chapter introduces the core principles of workplace ethics with a specific focus on the automotive sector. We will explore the ethical values and standards that govern interactions among employees, between companies and their clients, and how these values translate into creating a respectful work environment.</p>
 </text>
 <panel catname="panel1">
 <text/>
@@ -48,6 +48,63 @@
 <p>What kind of workplace do you want to work in? For Rohan, it’s a place where people see what he can do, not what he can’t. For Haruki, it’s a place where she’s treated as a human, not an object. For Alex, it’s a place where their identity is respected with the correct pronouns. For Nadira, it’s a place where her religion is understood, not feared. We all want to work somewhere we feel valued. Somewhere we feel like we belong. A place where we feel safe to be our authentic selves and not hide who we are. Where we can speak up and be trusted. And where our colleagues stand up for us instead of looking the other way. Because they know our differences are our greatest strength. And because we all deserve to thrive and reach our full potential. </p>
 </inspireTranscript>
 </audioTranscript>
+</page>
+<page type="clickAndReveal" pageid="2336253760955861444" pageTime="0" showTitle="true" count="" hidden="false">
+<title>ClickAndReveal Template</title>
+<text>
+<p>Test description for ClickAndReveal Template</p>
+</text>
+<audioTranscript>
+<inspireTranscript> </inspireTranscript>
+</audioTranscript>
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+Interaction title 1
+</text>
+</click>
+<reveal>
+<text>
+<p>test desc for Interaction title 1</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+Interaction title 2
+</text>
+</click>
+<reveal>
+<text>
+<p>test desc for Interaction title 2</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item3">
+<click>
+<text>
+Interaction title 3
+</text>
+</click>
+<reveal>
+<text>
+<p>test desc for Interaction title 3</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item4">
+<click>
+<text>
+Interaction title 4
+</text>
+</click>
+<reveal>
+<text>
+<p>test desc for Interaction title 4</p>
+</text>
+</reveal>
+</clickAndRevealItem>
 </page>
 </topic>
 <topic catname="Lesson_1179347450018272246" lessonId="lesson_1179347450018272246" lessonType="adaptive" lessonTime="0" quizType="quickQuiz">
@@ -60,11 +117,13 @@
 </text>
 </landing>
 <question lessonId="lesson_1179347450018272246" pageid="adapt_001_2" qId="1" interactionId="QQ-lesson_1179347450018272246-1" type="multipleChoice">
-<title/>
+<title>
+<adpQuestionTitle/>
+</title>
 <questionText>
 <adpQuestionText>
 <adpAssessmentQuestion>
-<p>Harassment is unwelcome conduct, specifically of a physical or sexual nature, that leaves the victim physically or emotionally damaged. It does not apply to verbal and/or visual conduct.</p>
+<p>Harassment is any unwelcome conduct that leaves the victim feeling physically or emotionally damaged, including verbal and/or visual conduct.</p>
 </adpAssessmentQuestion>
 </adpQuestionText>
 </questionText>
@@ -85,111 +144,121 @@
 <feedback/>
 </question>
 <question lessonId="lesson_1179347450018272246" pageid="adapt_001_3" qId="2" interactionId="QQ-lesson_1179347450018272246-2" type="multipleChoice">
-<title/>
+<title>
+<adpQuestionTitle/>
+</title>
 <questionText>
 <adpQuestionText>
 <adpAssessmentQuestion>
-<p>Nathalie works with Juan. After a successful client meeting, Juan tells them, “You did a great job today!”</p>
-<br/>Could this be considered harassment?</adpAssessmentQuestion>
+<p>A manager is allowed to accept gifts from vendors if they are given during the holiday season and are valued under $100.</p>
+</adpAssessmentQuestion>
 </adpQuestionText>
 </questionText>
 <choice isCorrect="false">
 <adpQuestionAnswer>
 <adpAssessmentAnswer_0>
-<p>Yes</p>
+<p>True</p>
 </adpAssessmentAnswer_0>
 </adpQuestionAnswer>
 </choice>
 <choice isCorrect="true">
 <adpQuestionAnswer>
 <adpAssessmentAnswer_1>
-<p>No</p>
+<p>False</p>
 </adpAssessmentAnswer_1>
 </adpQuestionAnswer>
 </choice>
 <feedback/>
 </question>
 <question lessonId="lesson_1179347450018272246" pageid="adapt_001_4" qId="3" interactionId="QQ-lesson_1179347450018272246-3" type="multipleChoice">
-<title/>
+<title>
+<adpQuestionTitle/>
+</title>
 <questionText>
 <adpQuestionText>
 <adpAssessmentQuestion>
-<p>Youssef wears religious headgear. Sandra teases him about how “stupid it looks.”<br/>Could this be considered harassment?</p>
+<p>In the hospitality industry, confidentiality means not sharing guest information without permission, unless required by law.</p>
 </adpAssessmentQuestion>
 </adpQuestionText>
 </questionText>
 <choice isCorrect="true">
 <adpQuestionAnswer>
 <adpAssessmentAnswer_0>
-<p>Yes</p>
+<p>True</p>
 </adpAssessmentAnswer_0>
 </adpQuestionAnswer>
 </choice>
 <choice isCorrect="false">
 <adpQuestionAnswer>
 <adpAssessmentAnswer_1>
-<p>No</p>
+<p>False</p>
 </adpAssessmentAnswer_1>
 </adpQuestionAnswer>
 </choice>
 <feedback/>
 </question>
 <question lessonId="lesson_1179347450018272246" pageid="adapt_001_5" qId="4" interactionId="QQ-lesson_1179347450018272246-4" type="multipleChoice">
-<title/>
+<title>
+<adpQuestionTitle/>
+</title>
 <questionText>
 <adpQuestionText>
 <adpAssessmentQuestion>
-<p>Josephine was recently diagnosed with a medical condition, which has led to her being granted permission to work from home three days a week. Ever since, her colleagues have given her the silent treatment and won't sit with her at lunch like they used to.</p>
-<br/>Could this be considered harassment?</adpAssessmentQuestion>
-</adpQuestionText>
-</questionText>
-<choice isCorrect="true">
-<adpQuestionAnswer>
-<adpAssessmentAnswer_0>
-<p>Yes</p>
-</adpAssessmentAnswer_0>
-</adpQuestionAnswer>
-</choice>
-<choice isCorrect="false">
-<adpQuestionAnswer>
-<adpAssessmentAnswer_1>
-<p>No</p>
-</adpAssessmentAnswer_1>
-</adpQuestionAnswer>
-</choice>
-<feedback/>
-</question>
-<question lessonId="lesson_1179347450018272246" pageid="adapt_001_6" qId="5" interactionId="QQ-lesson_1179347450018272246-5" type="multipleChoice">
-<title/>
-<questionText>
-<adpQuestionText>
-<adpAssessmentQuestion>
-<p>Ana is a systems analyst and the only woman on the team. Her manager constantly asks her to pick up his dry cleaning and to do other personal tasks, but never asks anyone else on the team.<br/>Could this be considered harassment?</p>
+<p>Ethical behavior in the workplace only pertains to interactions with guests, not colleagues.</p>
 </adpAssessmentQuestion>
 </adpQuestionText>
 </questionText>
 <choice isCorrect="true">
 <adpQuestionAnswer>
 <adpAssessmentAnswer_0>
-<p>Yes</p>
+<p>True</p>
 </adpAssessmentAnswer_0>
 </adpQuestionAnswer>
 </choice>
 <choice isCorrect="false">
 <adpQuestionAnswer>
 <adpAssessmentAnswer_1>
-<p>No</p>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1179347450018272246" pageid="adapt_001_6" qId="5" interactionId="QQ-lesson_1179347450018272246-5" type="multipleChoice">
+<title>
+<adpQuestionTitle/>
+</title>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>If an employee witnesses unethical behavior, they should report it, even if the behavior involves a friend.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
 </adpAssessmentAnswer_1>
 </adpQuestionAnswer>
 </choice>
 <feedback/>
 </question>
 <question lessonId="lesson_1179347450018272246" pageid="adapt_001_7" qId="6" interactionId="QQ-lesson_1179347450018272246-6" type="multipleChoice">
-<title/>
+<title>
+<adpQuestionTitle/>
+</title>
 <questionText>
 <adpQuestionText>
 <adpAssessmentQuestion>
-<p>The way in which someone perceives a comment or action is more important than how the comment or action was intended.</p>
+<p>An employee must always report a conflict of interest if a family member applies for a job at the same restaurant where the employee works.</p>
 </adpAssessmentQuestion>
 </adpQuestionText>
 </questionText>
@@ -210,104 +279,108 @@
 <feedback/>
 </question>
 <question lessonId="lesson_1179347450018272246" pageid="adapt_001_8" qId="7" interactionId="QQ-lesson_1179347450018272246-7" type="multipleChoice">
-<title/>
+<title>
+<adpQuestionTitle/>
+</title>
 <questionText>
 <adpQuestionText>
 <adpAssessmentQuestion>
-<p>John is in his 50s, so he is a lot older than the majority of his team who are in their 20s. They often refer to John as “grandpa” or an “old-timer”. Whenever he has issues with his computer, they say it’s typical that an old person can’t work a computer.</p>
-<br/><p>Could this be considered harassment?</p>
+<p>Offering discounts to friends and family when not authorized to do so is considered unethical in the hospitality industry.</p>
 </adpAssessmentQuestion>
 </adpQuestionText>
 </questionText>
 <choice isCorrect="true">
 <adpQuestionAnswer>
 <adpAssessmentAnswer_0>
-<p>Yes</p>
+<p>True</p>
 </adpAssessmentAnswer_0>
 </adpQuestionAnswer>
 </choice>
 <choice isCorrect="false">
 <adpQuestionAnswer>
 <adpAssessmentAnswer_1>
-<p>No</p>
+<p>False</p>
 </adpAssessmentAnswer_1>
 </adpQuestionAnswer>
 </choice>
 <feedback/>
 </question>
 <question lessonId="lesson_1179347450018272246" pageid="adapt_001_9" qId="8" interactionId="QQ-lesson_1179347450018272246-8" type="multipleChoice">
-<title/>
+<title>
+<adpQuestionTitle/>
+</title>
 <questionText>
 <adpQuestionText>
 <adpAssessmentQuestion>
-<p>Ciara’s team are planning a team outing, and they’d like to go to a cocktail bar. Ciara knows her colleague, Javid, doesn’t drink alcohol. She’s not sure if it’s for religious or personal reasons, so she says they should consider options that don’t involve alcohol.</p>
-<br/><p>Could this be considered harassment?</p>
+<p>Employers in the hospitality industry are obligated to accommodate religious practices of employees unless it causes undue hardship on the operations.</p>
 </adpAssessmentQuestion>
 </adpQuestionText>
 </questionText>
 <choice isCorrect="false">
 <adpQuestionAnswer>
 <adpAssessmentAnswer_0>
-<p>Yes</p>
+<p>True</p>
 </adpAssessmentAnswer_0>
 </adpQuestionAnswer>
 </choice>
 <choice isCorrect="true">
 <adpQuestionAnswer>
 <adpAssessmentAnswer_1>
-<p>No</p>
+<p>False</p>
 </adpAssessmentAnswer_1>
 </adpQuestionAnswer>
 </choice>
 <feedback/>
 </question>
 <question lessonId="lesson_1179347450018272246" pageid="adapt_001_10" qId="9" interactionId="QQ-lesson_1179347450018272246-9" type="multipleChoice">
-<title/>
+<title>
+<adpQuestionTitle/>
+</title>
 <questionText>
 <adpQuestionText>
 <adpAssessmentQuestion>
-<p>Bijan’s colleague, Daniel, had a stroke a few months ago, and they still experience difficulty speaking. Bijan finds it difficult to understand Daniel at times, so he says, “I want to make sure that we are communicating effectively, so would you be comfortable with my following up on our conversations with an email outlining our action items?”</p>
-<br/><p>Could this be considered harassment?</p>
+<p>It is considered ethical for a worker to clock in for their shift and then immediately leave the premises for personal errands.</p>
 </adpAssessmentQuestion>
 </adpQuestionText>
 </questionText>
 <choice isCorrect="false">
 <adpQuestionAnswer>
 <adpAssessmentAnswer_0>
-<p>Yes</p>
+<p>True</p>
 </adpAssessmentAnswer_0>
 </adpQuestionAnswer>
 </choice>
 <choice isCorrect="true">
 <adpQuestionAnswer>
 <adpAssessmentAnswer_1>
-<p>No</p>
+<p>False</p>
 </adpAssessmentAnswer_1>
 </adpQuestionAnswer>
 </choice>
 <feedback/>
 </question>
 <question lessonId="lesson_1179347450018272246" pageid="adapt_001_11" qId="10" interactionId="QQ-lesson_1179347450018272246-10" type="multipleChoice">
-<title/>
+<title>
+<adpQuestionTitle/>
+</title>
 <questionText>
 <adpQuestionText>
 <adpAssessmentQuestion>
-<p>Julia just got back to the office after a two-week vacation in the sun. When her colleague, Tom, sees her, he says, “Wow, you’ve got a great tan!”</p>
-<br/><p>Could this be considered harassment?</p>
+<p>A hotel employee finds a guest's lost item but decides to keep it because they believe it has little value. This behavior is ethical as long as the item is low in monetary value.</p>
 </adpAssessmentQuestion>
 </adpQuestionText>
 </questionText>
 <choice isCorrect="false">
 <adpQuestionAnswer>
 <adpAssessmentAnswer_0>
-<p>Yes</p>
+<p>True</p>
 </adpAssessmentAnswer_0>
 </adpQuestionAnswer>
 </choice>
 <choice isCorrect="true">
 <adpQuestionAnswer>
 <adpAssessmentAnswer_1>
-<p>No</p>
+<p>False</p>
 </adpAssessmentAnswer_1>
 </adpQuestionAnswer>
 </choice>
@@ -548,6 +621,10 @@
 <bulletinText>
 <p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. "What's happened to me?" he thought. It wasn't a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather. Drops</p>
 </bulletinText>
+</bulletin>
+<bulletin pageid="2336253760955861444" isMandatory="" type="bulletin" catname="Bulletin_2306509050170645251">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
 </bulletin>
 <bulletin pageid="1501581819005597982" isMandatory="" type="" catname="">
 <bulletinTitle> </bulletinTitle>
