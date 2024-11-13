@@ -13,14 +13,13 @@ class ClickAndReveal_Template:
         target_page_id = "2336253760955861444"
         tree = ET.parse('output.xml')
         root = tree.getroot()
-        print("root is",root)
         # Namespace handling (if required)
         namespace = {'ns': 'http://lrncontent.lrn.com/schema/lcec/lrncourse'}
         ET.register_namespace('', namespace['ns'])  # Register default namespace
     
         # Find the <page> tag with the specific pageid
         page = root.find(f".//ns:page[@pageid='{target_page_id}']", namespace)
-        print("targeted page is", page)
+        # print("targeted page is", page)
     
         # Count <clickAndRevealItem> tags under this page
         if page is not None:
@@ -32,7 +31,6 @@ class ClickAndReveal_Template:
             target_page_id = "2336253760955861444"
             tree = ET.parse('output.xml')
             root = tree.getroot()
-            print("root is",root)
             # Namespace handling (if required)
             namespace = {'ns': 'http://lrncontent.lrn.com/schema/lcec/lrncourse'}
             ET.register_namespace('', namespace['ns'])  # Register default namespace
@@ -40,7 +38,6 @@ class ClickAndReveal_Template:
             if page is not None:
                 # Loop through <clickAndRevealItem> tags
                 for i, item in enumerate(page.findall(".//ns:clickAndRevealItem", namespace)):
-                    print("inside for loop")
                     if i < len(click_and_reveal_content['interactions']):  # Ensure we don't exceed dictionary entries
                         interaction = click_and_reveal_content['interactions'][i]
 
@@ -69,7 +66,7 @@ class ClickAndReveal_Template:
         interaction_count =self.clickAndRevealTagsCounter()
         try:
             course_topic_area = "Ethics in the Workplace"
-            industry = "Corporate"
+            industry = "Hospitality"
             click_and_reveal_function = {
                 "name": "generate_click_and_reveal_content",
                 "description": "Generates content for a Click And Reveal interaction template",

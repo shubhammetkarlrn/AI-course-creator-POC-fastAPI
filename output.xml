@@ -36,9 +36,9 @@
 <title>Introduction</title>
 <text />
 <page type="videoSlideShow" pageid="1337985907539425274" pageTime="0" showTitle="true" hidden="false">
-<title>Introduction to Ethics in the Automobile Industry</title>
+<title>Welcome to Ethical Hospitality</title>
 <text>
-<p>Explore the foundation of ethical principles and their importance in the automobile industry. Understand how ethics shapes the culture and operations within automotive companies, setting a standard for professional behavior.</p>
+<p>This introductory chapter sets the foundation for understanding the importance of ethics in the hospitality industry. We'll explore what ethics means in the context of hospitality, examining the core principles that drive ethical conduct and how they impact customer trust and company reputation.</p>
 </text>
 <panel catname="panel1">
 <text />
@@ -59,41 +59,41 @@
 </audioTranscript>
 <clickAndRevealItem catname="item1">
 <click>
-<text>Understanding Corporate Ethics</text>
+<text>Understanding Workplace Ethics</text>
 </click>
 <reveal>
 <text>
-<p>Corporate ethics involve the policies and practices that a business follows in its interactions with stakeholders, including employees, customers, suppliers, and the community. It is essential for maintaining a company's reputation and legal standing.</p>
+<p>Workplace ethics in the hospitality industry encompass moral principles that guide professional conduct. They include honesty, integrity, accountability, transparency, and respect for others, ensuring a culture of fairness and trust.</p>
 </text>
 </reveal>
 </clickAndRevealItem>
 <clickAndRevealItem catname="item2">
 <click>
-<text>Code of Conduct Importance</text>
+<text>Handling Conflicts of Interest</text>
 </click>
 <reveal>
 <text>
-<p>A Code of Conduct outlines the expected behaviors and ethical standards for both employees and management. It is a crucial tool for ensuring that everyone in the organization understands their responsibilities and the ethical standards they must uphold.</p>
+<p>Conflicts of interest can arise in the hospitality industry when personal interests clash with professional duties. Employees must disclose any potential conflicts to maintain ethical standards and avoid compromising the reputation of their workplace.</p>
 </text>
 </reveal>
 </clickAndRevealItem>
 <clickAndRevealItem catname="item3">
 <click>
-<text>Handling Conflicts of Interest</text>
+<text>Respecting Diversity and Inclusion</text>
 </click>
 <reveal>
 <text>
-<p>Conflicts of interest occur when personal interests could potentially interfere with professional duties. Organizations must have clear policies to identify and manage such conflicts to maintain trust and objectivity in business decisions.</p>
+<p>A commitment to diversity and inclusion is crucial in the hospitality industry. Employees should embrace different cultures, backgrounds, and perspectives, fostering an inclusive environment that respects and values every individual.</p>
 </text>
 </reveal>
 </clickAndRevealItem>
 <clickAndRevealItem catname="item4">
 <click>
-<text>Promoting a Speak-Up Culture</text>
+<text>Enforcing a Code of Conduct</text>
 </click>
 <reveal>
 <text>
-<p>Encouraging open communication and providing safe avenues for reporting unethical behavior are vital. A 'speak-up' culture helps in early detection of issues and fosters an environment of transparency and trust.</p>
+<p>A code of conduct provides guidelines for expected behavior within an organization. In the hospitality industry, it's essential for maintaining professionalism, ensuring safety, and delivering a high-quality guest experience.</p>
 </text>
 </reveal>
 </clickAndRevealItem>
@@ -115,18 +115,18 @@
                 <questionText>
                     <adpQuestionText>
                         <adpAssessmentQuestion>
-                            <p>Harassment in the workplace can include verbal, physical, and visual conduct that negatively affects an individual.</p>
+                            <p>Harassment is any unwelcome conduct that leaves a victim physically or emotionally harmed, and it only applies to physical or sexual conduct.</p>
                         </adpAssessmentQuestion>
                     </adpQuestionText>
                 </questionText>
-                <choice isCorrect="true">
+                <choice isCorrect="false">
                     <adpQuestionAnswer>
                         <adpAssessmentAnswer_0>
                             <p>True</p>
                         </adpAssessmentAnswer_0>
                     </adpQuestionAnswer>
                 </choice>
-                <choice isCorrect="false">
+                <choice isCorrect="true">
                     <adpQuestionAnswer>
                         <adpAssessmentAnswer_1>
                             <p>False</p>
@@ -141,18 +141,18 @@
                 <questionText>
                     <adpQuestionText>
                         <adpAssessmentQuestion>
-                            <p>In the hospitality industry, ethics only apply to interactions with guests, not interactions among staff members.</p>
+                            <p>Youssef wears religious headgear. Sandra teases him about how "stupid it looks." Could this be considered harassment?</p>
                         </adpAssessmentQuestion>
                     </adpQuestionText>
                 </questionText>
-                <choice isCorrect="false">
+                <choice isCorrect="true">
                     <adpQuestionAnswer>
                         <adpAssessmentAnswer_0>
                             <p>True</p>
                         </adpAssessmentAnswer_0>
                     </adpQuestionAnswer>
                 </choice>
-                <choice isCorrect="true">
+                <choice isCorrect="false">
                     <adpQuestionAnswer>
                         <adpAssessmentAnswer_1>
                             <p>False</p>
@@ -167,7 +167,7 @@
                 <questionText>
                     <adpQuestionText>
                         <adpAssessmentQuestion>
-                            <p>Discrimination in the workplace is legally permissible if it is based on merit and performance rather than personal characteristics.</p>
+                            <p>It is ethical to disclose a guest’s personal information to a third party without consent if it benefits the hotel financially.</p>
                         </adpAssessmentQuestion>
                     </adpQuestionText>
                 </questionText>
@@ -193,7 +193,7 @@
                 <questionText>
                     <adpQuestionText>
                         <adpAssessmentQuestion>
-                            <p>Providing excellent customer service is an ethical obligation in the hospitality industry.</p>
+                            <p>Consistently assigning less desirable shifts to an employee due to their gender can be considered discriminatory.</p>
                         </adpAssessmentQuestion>
                     </adpQuestionText>
                 </questionText>
@@ -219,18 +219,18 @@
                 <questionText>
                     <adpQuestionText>
                         <adpAssessmentQuestion>
-                            <p>An employee who witnesses harassment is ethically obligated to report it, even if it does not directly affect them.</p>
+                            <p>Using tips left for hotel staff to contribute to a fund for hotel maintenance without letting the staff decide can be viewed as ethical.</p>
                         </adpAssessmentQuestion>
                     </adpQuestionText>
                 </questionText>
-                <choice isCorrect="true">
+                <choice isCorrect="false">
                     <adpQuestionAnswer>
                         <adpAssessmentAnswer_0>
                             <p>True</p>
                         </adpAssessmentAnswer_0>
                     </adpQuestionAnswer>
                 </choice>
-                <choice isCorrect="false">
+                <choice isCorrect="true">
                     <adpQuestionAnswer>
                         <adpAssessmentAnswer_1>
                             <p>False</p>
@@ -245,18 +245,18 @@
                 <questionText>
                     <adpQuestionText>
                         <adpAssessmentQuestion>
-                            <p>Accepting gifts from suppliers is always considered an unethical practice in the hospitality industry.</p>
+                            <p>An employee refusing to serve a guest based on their race is an example of unethical behavior in the workplace.</p>
                         </adpAssessmentQuestion>
                     </adpQuestionText>
                 </questionText>
-                <choice isCorrect="false">
+                <choice isCorrect="true">
                     <adpQuestionAnswer>
                         <adpAssessmentAnswer_0>
                             <p>True</p>
                         </adpAssessmentAnswer_0>
                     </adpQuestionAnswer>
                 </choice>
-                <choice isCorrect="true">
+                <choice isCorrect="false">
                     <adpQuestionAnswer>
                         <adpAssessmentAnswer_1>
                             <p>False</p>
@@ -271,7 +271,7 @@
                 <questionText>
                     <adpQuestionText>
                         <adpAssessmentQuestion>
-                            <p>If a customer is being unruly and disruptive, it is acceptable to use force to remove them from the premises according to workplace ethics in hospitality.</p>
+                            <p>Sharing insider information about a hotel's future booking offers for personal financial gain is considered ethical.</p>
                         </adpAssessmentQuestion>
                     </adpQuestionText>
                 </questionText>
@@ -297,7 +297,7 @@
                 <questionText>
                     <adpQuestionText>
                         <adpAssessmentQuestion>
-                            <p>Scenario: Maria refuses to serve a customer because they belong to a different ethnic background. Is this considered discriminatory behavior?</p>
+                            <p>Providing preferential treatment to guests known to be wealthy at the expense of other guests could raise ethical concerns in hospitality.</p>
                         </adpAssessmentQuestion>
                     </adpQuestionText>
                 </questionText>
@@ -323,7 +323,7 @@
                 <questionText>
                     <adpQuestionText>
                         <adpAssessmentQuestion>
-                            <p>Scenario: An employee regularly makes jokes about another employee’s accent in the workplace. Could this be considered harassment?</p>
+                            <p>Denying a promotion to an employee solely because of their age is a form of discrimination.</p>
                         </adpAssessmentQuestion>
                     </adpQuestionText>
                 </questionText>
@@ -349,18 +349,18 @@
                 <questionText>
                     <adpQuestionText>
                         <adpAssessmentQuestion>
-                            <p>Scenario: A manager regularly compliments an employee on their appearance in a manner that makes the employee uncomfortable. Could this be considered harassment?</p>
+                            <p>A manager giving a promotion in return for personal favors is considered ethical practice in the workplace.</p>
                         </adpAssessmentQuestion>
                     </adpQuestionText>
                 </questionText>
-                <choice isCorrect="true">
+                <choice isCorrect="false">
                     <adpQuestionAnswer>
                         <adpAssessmentAnswer_0>
                             <p>True</p>
                         </adpAssessmentAnswer_0>
                     </adpQuestionAnswer>
                 </choice>
-                <choice isCorrect="false">
+                <choice isCorrect="true">
                     <adpQuestionAnswer>
                         <adpAssessmentAnswer_1>
                             <p>False</p>
@@ -418,14 +418,9 @@
 </audioTranscript>
 </page>
 <page type="contentPage" pageid="1385907942298101467" pageTime="0" showTitle="true" hidden="false">
-<title>Intent vs. Impact</title>
+<title>The Role of Ethics in Hospitality</title>
 <text>
-<p>
-<p>Sometimes, when employees are the subject of a harassment complaint, they’ll try to defend themselves by saying, “it was just a joke,” or, “they didn’t mean to offend anyone.” But what’s important to remember is that when it comes to harassment, our intent is not what matters. What matters is the impact of our words and actions on the other person and how it made them feel.</p>
-<p>That’s why it’s so important to always pause and consider the impact of our words and actions before we act. This helps us avoid unintentionally engaging in harassing behavior and creating an unwelcoming environment that stops people becoming the best version of themselves.</p>
-<p>Select the Next arrow to continue.</p>
-</p>
-</text>
+<p>Ethics in the workplace, especially within the hospitality industry, serves as the backbone for building trust and delivering exceptional service. This course delves into the essential ethical principles that guide hospitality professionals in their interactions with guests, colleagues, and the broader community. With the fast-paced and customer-focused nature of the hospitality industry, maintaining a standard of ethical behavior is crucial for ensuring a positive reputation and fostering a culture of integrity. Participants will explore scenarios and case studies that highlight common ethical dilemmas, such as handling guest privacy, dealing with workplace harassment, and navigating issues of fairness and diversity. By understanding and applying these ethical principles, hospitality professionals can enhance guest satisfaction and contribute to a respectful and fair workplace environment.</p></text>
 <audioTranscript>
 <inspireTranscript>
 <p>Here are some things you always need to consider.</p>
@@ -445,21 +440,21 @@
 </audioTranscript>
 </page>
 <page type="saq" pageid="2010546873082608811" pageTime="0" showTitle="true" hidden="false">
-<title>Imani and the New Team Member</title>
+<title>An Ethical Dilemma in the Hotel Industry</title>
 <text>
-<p>Hamid is the newest member of Imani’s team. In his first team meeting, their manager makes a joke about Hamid’s nationality when introducing him. On numerous occasions over the next few months, Imani overhears her manager making jokes at Hamid’s expense based on his nationality. It’s making Imani feel uncomfortable, but she’s not sure if this is considered harassment because Hamid doesn’t seem to be upset by the jokes. If he is, he hasn’t said anything, but Imani wants to know what you think.</p>
+<p>Monica, a receptionist at a high-end hotel has been working for five nights straight as the hotel is short-staffed. One evening, a high-profile guest leaves behind a tip of $200 for Monica, forgetting he had already included a generous tip in the billing. Monica is tempted to keep the extra money as she is struggling financially, but she also knows it's against the hotel's ethics policy, which strictly mentions that reception staff must not keep any excessive tips left by mistake.</p>
 </text>
 <question type="multipleChoice">
-<questionText>What should you tell her?</questionText>
-<questionDescription />
-<choice isCorrect="true" catname="choice1">
-<p>Making repeated jokes about someone’s nationality may be harassment, so Imani should report this internally to the appropriate department immediately. </p>
+<questionText>What should Monica do in this situation?</questionText>
+<questionDescription>The question tests your understanding of ethical behavior in the workplace in the context of Monica's situation. Choose the most appropriate and ethical action Monica should take.</questionDescription>
+<choice isCorrect="false" catname="choice1">
+<p>Monica should keep the extra money since she really needs it and the guest may not notice it anyway.</p>
 </choice>
 <choice isCorrect="false" catname="choice2">
-<p>This might be harassment, but Hamid hasn’t said he’s offended by the jokes, so it’s hard to know. Imani should stay out of it and let Hamid report it if he’s unhappy.</p>
+<p>Monica should split the money with her colleagues since they also worked hard during this busy period.</p>
 </choice>
-<choice isCorrect="false" catname="choice3">
-<p>This definitely isn’t harassment. Imani’s manager is only joking around to help Hamid feel welcome and a part of the team. If Hamid didn't like it he'd say something. </p>
+<choice isCorrect="true" catname="choice3">
+<p>Monica should report the excess tip to her manager and let them decide what should be done.</p>
 </choice>
 <feedback feedbackId="correct" jumpToPageId="">
 <title>Passed</title>

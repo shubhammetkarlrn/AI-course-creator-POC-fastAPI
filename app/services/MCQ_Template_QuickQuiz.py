@@ -110,15 +110,15 @@ class MCQ_Template:
                 print("No first_topic found")
                 return
             for section in root.findall('.//ns:topic',namespace):
-                print(ET.tostring(section, encoding='utf8').decode('utf8'))
+                # print(ET.tostring(section, encoding='utf8').decode('utf8'))
                 print("**********************************************")
                 adaptive_element = section.find('.//ns:adaptive',namespace)
                 if adaptive_element is not None:
                     print("adaptive_element found")
-                    print("adaptive_element", adaptive_element)
+                    # print("adaptive_element", adaptive_element)
                     print("**********************************************")
-                    print("final_adaptive_xml", final_adaptive_xml)
-                    print(type(final_adaptive_xml))
+                    # print("final_adaptive_xml", final_adaptive_xml)
+                    # print(type(final_adaptive_xml))
                     # Find the index of the existing `<adaptive>` element to remove it
                     adaptive_index = list(section).index(adaptive_element)
                     section.remove(adaptive_element)

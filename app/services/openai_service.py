@@ -84,9 +84,9 @@ class OpenAIService:
 
             # Output the modified XML
             new_xml = ET.tostring(root, encoding='unicode')
-            print(new_xml)
+            # print(new_xml)
             print("**********************************************")
-            print(type(response.choices[0].message.function_call.arguments))
+            # print(type(response.choices[0].message.function_call.arguments))
             values = [first_chapter_title, first_chapter_description]
             return values #returning the modified xml for first lesson
         except Exception as e:

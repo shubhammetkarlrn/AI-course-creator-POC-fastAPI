@@ -44,6 +44,12 @@ To start the FastAPI server, run the following command:
 uvicorn main:app --reload
 ```
 
+or if faced app start-up error, then go into root dir of the project & try below command
+
+```bash
+uvicorn app.main:app --reload
+```
+
 You can then access the API at `http://localhost:8000`.
 
 ## API Documentation

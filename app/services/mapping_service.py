@@ -1,50 +1,36 @@
 from typing import List, Dict, Any
 from .MCQ_Template_QuickQuiz import MCQ_Template
 from .clickAndReveal import ClickAndReveal_Template
+from .TextAndImage import TextAndImage_Template
+from .MCQ_SAQ import MCQ_SAQ_Template
+from .videoSlideShow import videoSlideShow_Template
 import xml.etree.ElementTree as ET
 
 class DataMapper:
     async def map_and_modify(self, llm_response: Any) :
         mcq_template_flow = MCQ_Template()
         click_and_reveal_template_flow = ClickAndReveal_Template()
-        print(llm_response[0], llm_response[1])
-        """
-        Map data from XML and LLM response, modify XML accordingly
-        """
+        text_and_image_template_flow = TextAndImage_Template()
+        mcq_saq_template_flow = MCQ_SAQ_Template()
+        video_slide_show_template_flow = videoSlideShow_Template()
+        
         try:
-            tree = ET.parse('course.xml')
-            root = tree.getroot()
+            print("------------------ starting videoSlideShow Template ------------------")
+            await video_slide_show_template_flow.videoSlideShowGenerator(llm_response)
 
-            # Namespace handling (if required)
-            namespace = {'ns': 'http://lrncontent.lrn.com/schema/lcec/lrncourse'}
-            ET.register_namespace('', namespace['ns'])  # Register default namespace
-
-            # Find the first <page> tag and its <title> child under that tag
-            first_page = root.find('.//ns:page', namespace)
-            if first_page is not None:
-                # Update <title> content under the first <page>
-                title_tag = first_page.find('ns:title', namespace)
-                if title_tag is not None:
-                    title_tag.text = llm_response[0]  # Replace with the new title
-
-                # Find <p> inside the <text> tag within the same <page>
-                text_tag = first_page.find('ns:text/ns:p', namespace)
-                if text_tag is not None:
-                    text_tag.text = llm_response[1]  # Replace with the new description
-
-            # Save the modified XML back to a file
-            tree.write('output.xml', encoding='UTF-8', xml_declaration=True)
-
-            print("------------------ starting MCQ generation ------------------")
+            print("------------------ starting MCQ Lesson QuickQuiz Template ------------------")
             await mcq_template_flow.MCQ_generator()
 
-            print("------------------ starting click and reveal generation ------------------")
+            print("------------------ starting click and reveal Template ------------------")
             await click_and_reveal_template_flow.clickAndRevealGenerator()
 
-            # Add your mapping and XML modification logic here
-            # This is a placeholder implementation
+            print("------------------ starting Text and Image Template ------------------")
+            await text_and_image_template_flow.textAndImageGenerator()
+
+            print("------------------ starting MCQ-SAQ Template ------------------")
+            await mcq_saq_template_flow.MCQ_SAQ_Generator()
+
             
-            # Return the modified XML as string
             return ""  # Replace with actual modified XML
         except Exception as e:
             raise Exception(f"Error in data mapping: {str(e)}")
