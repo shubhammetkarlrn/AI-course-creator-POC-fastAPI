@@ -4,6 +4,7 @@ from app.services.xml_service import XMLProcessor
 from app.services.openai_service import OpenAIService
 from app.services.mapping_service import DataMapper
 from app.services.external_api_service import ExternalAPIService
+from app.services.course_outline_creator import courseCreatorOutline
 
 router = APIRouter()
 
@@ -32,6 +33,20 @@ async def process_data(request: ProcessRequestBody):
             status="success",
             message="Processing completed successfully",
             data=result
+        )
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@router.post("/course-structure-generator", response_model=ProcessResponse)
+async def generate_course(request: ProcessRequestBody):
+    try:
+        course_outline = courseCreatorOutline()
+        res = await course_outline.courseOutline()
+        return ProcessResponse(
+            status="success",
+            message="Processing completed successfully",
+            data = res
         )
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))

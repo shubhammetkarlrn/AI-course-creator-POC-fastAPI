@@ -1,0 +1,114 @@
+{
+    "lessons": [
+        {
+            "lessonName": "Introduction to Anti-bribery & Corruption",
+            "pages": [
+                {
+                    "page_id": "P1",
+                    "page_name": "Understanding Bribery and Corruption",
+                    "content": "Gain insight into what constitutes bribery and corruption, especially within the banking sector. Learn about the global impact and the necessity for stringent anti-bribery laws.",
+                    "type": "videoSlideShow"
+                },
+                {
+                    "page_id": "P2",
+                    "page_name": "Regulatory Frameworks and Standards",
+                    "content": "Explore the international regulatory frameworks that govern anti-bribery practices in banking, focusing particularly on the FCPA and the UK Bribery Act.",
+                    "type": "textAndImage"
+                },
+                {
+                    "page_id": "P3",
+                    "page_name": "Interactive Compliance Activity",
+                    "content": "Participate in a click-and-reveal activity to understand the key compliance measures every bank must implement.",
+                    "type": "ClickAndReveal"
+                }
+            ]
+        },
+        {
+            "lessonName": "Detecting and Preventing Bribery",
+            "pages": [
+                {
+                    "page_id": "P4",
+                    "page_name": "Red Flags of Corruption",
+                    "content": "Identify the red flags and warning signs that may indicate bribery is occurring within banking operations and transactions.",
+                    "type": "videoSlideShow"
+                },
+                {
+                    "page_id": "P5",
+                    "page_name": "Implementing Effective Controls",
+                    "content": "Learn about the internal controls and checks that can prevent bribery, including due diligence procedures and regular audits.",
+                    "type": "textAndImage"
+                },
+                {
+                    "page_id": "P6",
+                    "page_name": "Scenario-based Learning",
+                    "content": "Engage in scenario-based learning to identify corruption in model banking situations. Click on each scenario to reveal lessons learned.",
+                    "type": "ClickAndReveal"
+                },
+                {
+                    "page_id": "P7",
+                    "page_name": "Quiz on Detection and Prevention",
+                    "content": "Take a multiple-choice quiz to test your understanding of how to detect and prevent bribery in banking.",
+                    "type": "MCQ"
+                }
+            ]
+        },
+        {
+            "lessonName": "Case Studies and Applications",
+            "pages": [
+                {
+                    "page_id": "P8",
+                    "page_name": "Notable Anti-corruption Cases",
+                    "content": "Examine famous case studies where banks were involved in bribery and corruption, discussing the outcomes and impacts.",
+                    "type": "videoSlideShow"
+                },
+                {
+                    "page_id": "P9",
+                    "page_name": "Analyzing Bank Policies",
+                    "content": "Review real-world bank policies and assess their effectiveness in combating bribery and corruption.",
+                    "type": "textAndImage"
+                },
+                {
+                    "page_id": "P10",
+                    "page_name": "Interactive Case Study Analysis",
+                    "content": "Analyze interactive case studies, clicking to reveal how anti-bribery measures were applied and their effectiveness.",
+                    "type": "ClickAndReveal"
+                },
+                {
+                    "page_id": "P11",
+                    "page_name": "Assessment Quiz",
+                    "content": "Complete a final quiz to evaluate your knowledge of case studies and practical applications.",
+                    "type": "MCQ"
+                }
+            ]
+        },
+        {
+            "lessonName": "Building a Culture of Integrity",
+            "pages": [
+                {
+                    "page_id": "P12",
+                    "page_name": "Encouraging Ethical Conduct",
+                    "content": "Learn how to foster a culture of ethics and integrity within your banking institution.",
+                    "type": "videoSlideShow"
+                },
+                {
+                    "page_id": "P13",
+                    "page_name": "Role of Leadership in Anti-corruption",
+                    "content": "Investigate the role bank leadership plays in promoting anti-corruption initiatives and leading by example.",
+                    "type": "textAndImage"
+                },
+                {
+                    "page_id": "P14",
+                    "page_name": "Developing an Ethics Program",
+                    "content": "Participate in a click-and-reveal to design an ethics program tailored to your banking environment.",
+                    "type": "ClickAndReveal"
+                },
+                {
+                    "page_id": "P15",
+                    "page_name": "Final Knowledge Test",
+                    "content": "Test your overall understanding and readiness to implement anti-bribery and corruption measures in your bank.",
+                    "type": "MCQ"
+                }
+            ]
+        }
+    ]
+}

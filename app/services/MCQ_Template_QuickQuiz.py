@@ -111,7 +111,6 @@ class MCQ_Template:
                 return
             for section in root.findall('.//ns:topic',namespace):
                 # print(ET.tostring(section, encoding='utf8').decode('utf8'))
-                print("**********************************************")
                 adaptive_element = section.find('.//ns:adaptive',namespace)
                 if adaptive_element is not None:
                     print("adaptive_element found")
